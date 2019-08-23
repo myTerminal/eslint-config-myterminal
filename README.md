@@ -12,7 +12,7 @@ An ESLint configuration according to my preferred coding style based on the ones
 
 ## Base
 
-Out of all the configs that I came across all these years, I found [airbnb](https://www.npmjs.com/package/eslint-config-airbnb) the most compatible with my coding with a few exceptions, the first example that comes to my mind is 4 spaces for indent as opposed to 2 spaces. I made an attempt to create my configs from scratch a while back but the process being so overwhelming and time-consuming, I decided to take a step back and spend that time to write actual code rather than create my own configuration.
+Out of all the configs that I came across all these years, I found the ones from [airbnb](https://www.npmjs.com/package/eslint-config-airbnb) to be the most compatible with my coding with a few exceptions. The first example that comes to my mind is 4 spaces for indentations as opposed to 2. I made an attempt to create my configs from scratch a while back but the process being so overwhelming and time-consuming, I decided to take a step back and spend that time to write actual code rather than to create extensive coding style configuration.
 
 ## Usage
 
@@ -97,5 +97,5 @@ If you use this config in your project and want people to know it, use the below
 
 ## To-Do
 
-* Separate out rules even further
+* Separate out rules even further into multiple rule-sets
 * Add rules for a few more disciplines
