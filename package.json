@@ -1,0 +1,40 @@
+{
+  "name": "eslint-config-myterminal",
+  "version": "0.9.0",
+  "description": "An ESLint configuration following my preferred coding style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myTerminal/eslint-config-myterminal.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myTerminal/eslint-config-myterminal/issues"
+  },
+  "homepage": "https://github.com/myTerminal/eslint-config-myterminal#readme",
+  "peerDependencies": {
+    "babel-eslint": ">= 10",
+    "eslint": ">= 6",
+    "eslint-config-airbnb": ">= 18",
+    "eslint-plugin-import": ">= 2",
+    "eslint-plugin-jsx-a11y": ">= 6",
+    "eslint-plugin-react": ">= 7"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3"
+  }
+}
