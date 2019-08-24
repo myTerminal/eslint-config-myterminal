@@ -77,9 +77,9 @@ If you only need to impose only a particular set of rules, you can do it like
 
 The above will not include rules for [React](https://reactjs.org). There are a few individual rule-sets to choose from:
 
-- base
-- react
-- (more to come)
+- `base`
+- `react`
+- `vue` (includes `base` and needs `vue-eslint-parser` installed as a peer-dependency)
 
 However, if you need all of them, just stick to `"myterminal"`.
 

@@ -1,12 +1,10 @@
 /* global module require */
 
 module.exports = {
-    globals: {},
-    parser: 'babel-eslint',
+    parser: 'vue-eslint-parser',
     extends: [
         'airbnb'
     ].concat([
-        './rules/base',
-        './rules/react'
+        './base'
     ].map(require.resolve))
 };

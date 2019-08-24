@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-myterminal",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "description": "An ESLint configuration following my preferred coding style",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,7 @@
     "eslint-config-airbnb": ">= 18",
     "eslint-plugin-import": ">= 2",
     "eslint-plugin-jsx-a11y": ">= 6",
-    "eslint-plugin-react": ">= 7"
+    "eslint-plugin-react": ">= 7",
+    "vue-eslint-parser": ">= 6"
   }
 }
