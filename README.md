@@ -79,7 +79,7 @@ The above will not include rules for [React](https://reactjs.org). There are a f
 
 - `base`
 - `react`
-- `vue` (includes `base` and needs `vue-eslint-parser` installed as a peer-dependency)
+- `vue` (includes `base` and needs `vue-eslint-parser` and `eslint-plugin-vue` installed as peer-dependencies)
 
 However, if you need all of them, just stick to `"myterminal"`.
 
