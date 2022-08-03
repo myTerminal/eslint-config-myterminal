@@ -1,10 +1,7 @@
 # eslint-config-myterminal
 
 [![npm version](https://badge.fury.io/js/eslint-config-myterminal.svg)](https://badge.fury.io/js/eslint-config-myterminal)
-[![npm downloads](https://img.shields.io/npm/dt/eslint-config-myterminal.svg)](https://www.npmjs.com/package/eslint-config-myterminal)  
-[![Dependency Status](https://david-dm.org/myTerminal/eslint-config-myterminal.svg)](https://david-dm.org/myTerminal/eslint-config-myterminal)
-[![devDependency Status](https://david-dm.org/myTerminal/eslint-config-myterminal/dev-status.svg)](https://david-dm.org/myTerminal/eslint-config-myterminal#info=devDependencies)
-[![peer Dependency Status](https://david-dm.org/myTerminal/eslint-config-myterminal/peer-status.svg)](https://david-dm.org/myTerminal/eslint-config-myterminal#info=peerDependencies)  
+[![npm downloads](https://img.shields.io/npm/dt/eslint-config-myterminal.svg)](https://www.npmjs.com/package/eslint-config-myterminal)
 [![License](https://img.shields.io/github/license/myTerminal/ample-alerts.svg)](https://opensource.org/licenses/MIT)  
 [![NPM](https://nodei.co/npm/eslint-config-myterminal.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/eslint-config-myterminal/)
 
