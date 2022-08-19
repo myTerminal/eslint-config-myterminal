@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-myterminal",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "description": "An ESLint configuration following my preferred coding style",
   "main": "index.js",
   "scripts": {
